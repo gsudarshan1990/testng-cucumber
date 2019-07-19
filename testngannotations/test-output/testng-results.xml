@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-18T16:05:54Z" name="Default suite" finished-at="2019-07-18T16:05:54Z" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2019-07-18T16:05:54Z" name="Default test" finished-at="2019-07-18T16:05:54Z" duration-ms="47">
+      <class name="testngannotationsexample.testngannotationsclass">
+        <test-method is-config="true" signature="before_suit_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="before_suit_function" finished-at="2019-07-18T16:05:54Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_suit_function -->
+        <test-method is-config="true" signature="before_test_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="before_test_function" finished-at="2019-07-18T16:05:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_test_function -->
+        <test-method is-config="true" signature="before_class_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="before_class_function" finished-at="2019-07-18T16:05:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_class_function -->
+        <test-method signature="test_exectution()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="test_exectution" finished-at="2019-07-18T16:05:54Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_exectution -->
+        <test-method is-config="true" signature="before_method_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="before_method_function" finished-at="2019-07-18T16:05:54Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method_function -->
+        <test-method is-config="true" signature="after_method_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="after_method_function" finished-at="2019-07-18T16:05:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method_function -->
+        <test-method is-config="true" signature="after_class_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="after_class_function" finished-at="2019-07-18T16:05:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_class_function -->
+        <test-method is-config="true" signature="after_test_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="after_test_function" finished-at="2019-07-18T16:05:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test_function -->
+        <test-method is-config="true" signature="after_suite_function()[pri:0, instance:testngannotationsexample.testngannotationsclass@65fb9ffc]" started-at="2019-07-18T16:05:54Z" name="after_suite_function" finished-at="2019-07-18T16:05:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_suite_function -->
+      </class> <!-- testngannotationsexample.testngannotationsclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
